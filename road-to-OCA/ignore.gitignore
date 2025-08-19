@@ -1,0 +1,8 @@
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar arquivos temporários de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
